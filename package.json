@@ -1,0 +1,11 @@
+{
+  "name": "smart-web-scraper-cluster",
+  "version": "1.8.0",
+  "description": "Distributed web scraping cluster with anti-bot heuristics",
+  "type": "module",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --test"
+  }
+}
